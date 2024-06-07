@@ -6,7 +6,7 @@ import urllib
 import settingslocal
 
 REDDIT_USERNAME = 'Select-Astronomer-20'
-REDDIT_PASSWORD = 'M@kansomay1'
+REDDIT_PASSWORD = ''
 
 try:
     from settingslocal import *
